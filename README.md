@@ -17,6 +17,7 @@ I've been learning C#, C++ & 3D Skill*
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/HippotamusZz"><img src="https://github-readme-stats.vercel.app/api?username=HippotamusZz&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="HippotamusZz's GitHub stats" /></a>
 
 <a href="http://www.github.com/HippotamusZz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HippotamusZz&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

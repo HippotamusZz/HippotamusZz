@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freelance Game Developer, Technical Artist, Unity & Unreal Artist
 ----------------------------------------------------------------------------
 I've been learning C#, C++ & 3D Skill* 
-🌍  I'm based in Kalasin, Thailand* 
 ✉️  You can contact me at [phongsathonkrabao@gmail.com](mailto:phongsathonkrabao@gmail.com)
 
 ### Skills
